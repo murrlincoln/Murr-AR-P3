@@ -1,6 +1,8 @@
 # AR Book Cover Project
 
 This repository contains a Unity project for an augmented reality (AR) book cover using the Vuforia Engine. It is designed to overlay interactive 3D text onto a physical book cover when viewed through a camera using a mobile device.
+[Video Demo](https://www.loom.com/share/4654d503ae5742f1a389bf6d7fc3649b?sid=852bcd8a-debd-469d-b3cb-c07f1861af67)
+The book covers are included as pngs in the main directory.
 
 ## Getting Started
 
