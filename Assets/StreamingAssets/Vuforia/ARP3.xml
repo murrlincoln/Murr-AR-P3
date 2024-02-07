@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="RWOBack" size="0.228600 0.351270" />
+    <ImageTarget name="RWOCover" size="0.228600 0.342900" />
+  </Tracking>
+</QCARConfig>
